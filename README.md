@@ -41,7 +41,7 @@ Task_03.pdf - FILE FOR PREVIEW
   <img width="951" alt="Screenshot 2025-06-22 at 11 42 50 PM" src="https://github.com/user-attachments/assets/9b9267f9-2141-4c34-9d26-67554535aefb" />
   
 - KDE plot showing overall sentiment score trends
- <img width="951" alt="Screenshot 2025-06-22 at 11 43 10 PM" src="https://github.com/user-attachments/assets/3773ae90-aa81-4056-b193-d1c89768e167" />
- <img width="951" alt="image" src="https://github.com/user-attachments/assets/11db8c00-f6b2-426b-9886-1a67691b5f03" />
+  <img width="951" alt="Screenshot 2025-06-22 at 11 43 10 PM" src="https://github.com/user-attachments/assets/3773ae90-aa81-4056-b193-d1c89768e167" />
+  <img width="951" alt="image" src="https://github.com/user-attachments/assets/11db8c00-f6b2-426b-9886-1a67691b5f03" />
 
 
