@@ -29,6 +29,14 @@ Task_03.ipynb - MAIN FILE
 
 Task_03.pdf - FILE FOR PREVIEW
 
+ ## 📌 Skills Gained
+
+- Data Cleaning & Preprocessing
+- Survey Data Analysis
+- Sentiment Analysis with NLP
+- Data Visualization
+- Python scripting in Jupyter Notebook
+
 ## 📈 Visual Outputs
 
 - Bar charts for top and low satisfaction areas
