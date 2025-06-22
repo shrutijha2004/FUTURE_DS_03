@@ -24,7 +24,9 @@ To perform detailed analysis on survey feedback data, extract sentiment insights
 ## 📂 File Structure
 
 Student_Satisfaction_Survey.csv - DATASET USED
+
 Task_03.ipynb - MAIN FILE
+
 Task_03.pdf - FILE FOR PREVIEW
 
 ## 📈 Visual Outputs
